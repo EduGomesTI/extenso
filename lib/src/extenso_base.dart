@@ -1,3 +1,4 @@
+// @dart=2.19
 String numeroPorExtenso(int numero) {
   if (numero == 0) return 'zero';
   if (numero == 1) return 'um';
